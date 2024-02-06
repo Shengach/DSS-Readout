@@ -1,0 +1,13 @@
+main.c:123:1:__io_putchar	1
+main.c:136:5:main	15
+main.c:278:6:SystemClock_Config	4
+main.c:328:13:MX_ADC1_Init	4
+main.c:396:13:MX_SPI2_Init	2
+main.c:436:13:MX_TIM1_Init	7
+main.c:516:13:MX_TIM2_Init	8
+main.c:587:13:MX_USART2_UART_Init	2
+main.c:620:13:MX_DMA_Init	1
+main.c:644:13:MX_GPIO_Init	1
+main.c:718:7:medianFilter	7
+main.c:737:7:FIR_Filter	2
+main.c:765:6:Error_Handler	1
